@@ -10,4 +10,10 @@ package com.honglekai.algorithm.easy;
  * modifyTime
  */
 public class ToLowerCase709 {
+
+    public String toLowerCase(String str) {
+        return str.toLowerCase();
+    }
+
+
 }
