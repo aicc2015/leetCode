@@ -25,7 +25,7 @@ import java.util.Map;
  * createTime 2019/7/14 15:49
  * modifyTime
  */
-public class TwoSum {
+public class TwoSum1 {
 
     /**
      * 其中注释掉的为我的答案，官方给出最佳答案是一遍hash，时间复杂度是O(n)
