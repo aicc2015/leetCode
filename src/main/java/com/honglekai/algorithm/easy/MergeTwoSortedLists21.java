@@ -19,7 +19,7 @@ package com.honglekai.algorithm.easy;
  * createTime 2019/10/15 1:37
  * modifyTime
  */
-public class MergeTwoSortedLists {
+public class MergeTwoSortedLists21 {
 
     /**
      * 方法 1：递归
@@ -63,7 +63,7 @@ public class MergeTwoSortedLists {
         }
 
     public static void main(String[] args) {
-        MergeTwoSortedLists lists = new MergeTwoSortedLists();
+        MergeTwoSortedLists21 lists = new MergeTwoSortedLists21();
         ListNode l1 = new ListNode(1);
         ListNode l1_2 = new ListNode(2);
         ListNode l1_3 = new ListNode(4);
